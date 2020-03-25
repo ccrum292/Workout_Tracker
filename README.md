@@ -1,5 +1,13 @@
 # Workout_Tracker
 
+![home page of Fitness Tracker, Continue Workout or New Workout](public/workout-tracker.png)
+
+
+The objective of this project was to create a daily workout tracker with the ability to log multiple exercises for a workout on a given day, while also including the exercise details, such as: name, type, weight, sets, reps, distance, and duration.  In order to achieve this goal, mongoose and express were used on the back-end to create a database and handle routes, respectively.  A link to the working application can be found below.
+
+
+ADD LINK HERE
+
 # Unit 17 Nosql Homework: Workout Tracker
 
 For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
